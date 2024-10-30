@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+/**
+ * This file is part of Mbiz_Menu for Magento.
+ *
+ * @license GPL-3.0
+ * @author Jacques Bodin-Hullin <j.bodinhullin@monsieurbiz.com> <@jacquesbh>
+ * @category Mbiz
+ * @package Mbiz_Menu
+ */
+-->
+<config>
+    <modules>
+        <Mbiz_Menu>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Mbiz_Menu>
+    </modules>
+</config>
